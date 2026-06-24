@@ -1,6 +1,8 @@
 # Totem Mercado
 
-Projeto desenvolvido em **Java** utilizando o **IntelliJ IDEA** para praticar conceitos de Programação Orientada a Objetos.
+Sistema de autoatendimento desenvolvido em **Java** para praticar conceitos de **Programação Orientada a Objetos (POO)**.
+
+O projeto simula o funcionamento de um totem de mercado, permitindo criar pedidos, listar produtos, adicionar itens, calcular o valor total, aplicar descontos, finalizar pedidos e gerar um ticket.
 
 ## Funcionalidades
 
